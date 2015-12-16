@@ -10,21 +10,21 @@ Usages:
  hitta_primary_clinic.py:				
  Description: This script extracts all primary clinics from Hitta.								
          Output:					
-                 1. hitta_primary_clinic_result.csv								
+                	 1. hitta_primary_clinic_result.csv								
 
  hitta.py:						
  Description: This script search for parent clinic name and extract the details from Hitta.			
          Input:						
-                 1. <DIR>/Vardcentraler.csv				
+                	 1.Vardcentraler.csv				
          Output:							
-                 1. hitta_result.csv				
+                 	1. hitta_result.csv				
 
  eniro.py:						
 	 Description: This script search for parent clinic name and extract the details from Eniro.						
-	         Input:						
-                 1. <DIR>/Vardcentraler.csv						
-         Output:					
-                 1. eniro_result.csv						
+	 Input:						
+                 	1.Vardcentraler.csv						
+         Output:						
+                	 1. eniro_result.csv						
 	
 
  compare_hitta_eniro_vardcentraler.py:			
