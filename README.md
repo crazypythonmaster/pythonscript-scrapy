@@ -16,7 +16,7 @@ Usages:
  Description: This script search for parent clinic name and extract the details from Hitta.
          Input:
                  1. <DIR>/Vardcentraler.csv
-        Output:
+         Output:
                  1. hitta_result.csv
 
  eniro.py:
